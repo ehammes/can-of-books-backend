@@ -7,7 +7,6 @@
 An app displaying a list of books containing title, description, and read status.
 
 ## Getting Started
-<!-- What are the steps that a user must take in order to build this app on their own machine and get it running? -->
 
 ## Architecture
 Javascript, Node.js, MongoDB, Mongoose, Axios
@@ -24,7 +23,7 @@ Javascript, Node.js, MongoDB, Mongoose, Axios
 - Actual time needed to complete: 4.5 hours and some additional follow-up work needs to be completed.
 
 ## Credit and Collaborations
-In collaboration with [Stanley Wilder](https://github.com/stanwilder)
+In collaboration with [Stanley Wilder](https://github.com/stanwilder), [Elizabeth Hammes](https://github.com/ehammes)
 
 - **Team Agreement:**
   - **Logistical**
