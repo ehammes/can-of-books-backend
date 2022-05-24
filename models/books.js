@@ -10,10 +10,10 @@ const { Schema } = mongoose;
 const bookSchema = new Schema({
   title: {type: String, required: true},
   description: {type: String, required: true},
-  readStatus: {type: String, required: true},
+  recommended: {type: Boolean, required: true},
 });
 
-// Define model, add predifned schema, add arguments
+// Define model, add predefined schema, add arguments
 const BookModel = mongoose.model('Books', bookSchema)
 
 module.exports = BookModel;
