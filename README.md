@@ -22,6 +22,12 @@ Javascript, Node.js, MongoDB, Mongoose, Axios
 - Finish time: 7:00pm
 - Actual time needed to complete: 4.5 hours and some additional follow-up work needs to be completed.
 
+- Name of feature: Lab 12
+- Estimate of time needed to complete: 4 hours
+- Start time: 2:53pm
+- Finish time: 6:20pm
+- Actual time needed to complete: Wrapped up lab 11 and spent ~ 3.5 hours on lab 12. Remaining work involves adding a delete button.
+
 ## Credit and Collaborations
 In collaboration with [Stanley Wilder](https://github.com/stanwilder), [Elizabeth Hammes](https://github.com/ehammes)
 
