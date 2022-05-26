@@ -58,6 +58,17 @@ async function deleteBooks(request, response, next) {
   }
 }
 
+app.put('/books/:id', putBooks);
+async function  putBooks(request, response, next) {
+  try {
+    let id = request.params.id;
+    let updatedData = request.body;
+    let updatedBook = await Books.findByIdAndUpdate(id, updatedData, { new: true, overwrite: true });
+    response.status(200).send(updatedBook);
+  } catch (error) {
+    next(error)
+  }
+}
 
 
 // app.get('/test', (request, response) => {

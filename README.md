@@ -34,6 +34,12 @@ Name of feature: Lab 12 day 2
 - Finish time: 3:30pm
 - Actual time needed to complete: Wrapped up the rest of lab 12 and spent ~ 2 hours on it.
 
+Name of feature: Lab 13
+- Estimate of time needed to complete: 4 hours
+- Start time: 4:00pm
+- Finish time: 7:30pm
+- Actual time needed to complete: Spent about 3.5 hours on this lab. Got stuck for about 1.5 hours working with TA determining how to update the correct book.
+
 ## Credit and Collaborations
 In collaboration with [Stanley Wilder](https://github.com/stanwilder), [Elizabeth Hammes](https://github.com/ehammes)
 
